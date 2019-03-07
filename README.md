@@ -1,4 +1,5 @@
 # vue-vuex-todo
+Yet another todo list, using VueJS and Vuex.
 
 ## Project setup
 ```
